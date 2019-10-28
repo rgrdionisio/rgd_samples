@@ -1,4 +1,4 @@
-Names
+Names and Last Names
 
 Richard
 Joy
@@ -10,3 +10,6 @@ Belen
 
 James
 Russel
+
+Altuve
+Coles
